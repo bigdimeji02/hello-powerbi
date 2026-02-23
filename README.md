@@ -4,8 +4,11 @@
 This project analyzes car performance data to explore how different factors such as horsepower, torque, acceleration, fuel type, and engine type impact overall vehicle performance. The project demonstrates beginner-friendly data analysis skills using Power BI for data cleaning and interactive data visualization.
 
 👉 **Project Files (Click to View/Download):**  
+
 [🔗 [Click here to access the Power BI files and datasets](https://drive.google.com/drive/folders/1wtuEeQUx1ViyoLLIV3540e6cPGJ7dp_R?usp=drive_link))]
-screenshots below
+
+## Screenshots below
+
 <img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/eaf703a3-66d6-4682-8fd1-e663ec4fa4a4" />
 <img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b9ff5471-b8d7-49dc-ba78-5bccd88765f7" />
 <img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/5a734c95-05ae-4ea4-860c-6adee8e49134" />
@@ -15,7 +18,7 @@ screenshots below
 ---
 
 ## 🎯 Objectives  
-- Clean and prepare raw car performance data using Excel  
+- Clean and prepare raw car performance data using Powerbi
 - Explore relationships between vehicle features and performance metrics  
 - Build an interactive Power BI dashboard to present insights  
 - Practice data visualization and business-oriented storytelling  
