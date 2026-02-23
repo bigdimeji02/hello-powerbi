@@ -6,6 +6,12 @@ This project analyzes car performance data to explore how different factors such
 👉 **Project Files (Click to View/Download):**  
 [🔗 [Click here to access the Power BI files and datasets](https://drive.google.com/drive/folders/1wtuEeQUx1ViyoLLIV3540e6cPGJ7dp_R?usp=drive_link))]
 screenshots below
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/eaf703a3-66d6-4682-8fd1-e663ec4fa4a4" />
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b9ff5471-b8d7-49dc-ba78-5bccd88765f7" />
+<img width="1366" height="768" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/5a734c95-05ae-4ea4-860c-6adee8e49134" />
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/b2f65138-ef31-4b02-a82f-92b912fc2d27" />
+<img width="1366" height="768" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/6818650d-8272-484a-92a9-8dadb64d5c46" />
+
 ---
 
 ## 🎯 Objectives  
@@ -17,8 +23,7 @@ screenshots below
 ---
 
 ## 🛠 Tools & Skills  
-- Microsoft Excel (data cleaning & preparation)  
-- Power BI (dashboard creation & interactive visualizations)  
+- Power BI (data cleaning, preparation, dashboard creation & interactive visualizations)  
 - Data Visualization  
 - Data Cleaning  
 - Basic Data Analysis  
