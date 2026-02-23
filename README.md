@@ -1,7 +1,7 @@
 # 🚗 Car Performance Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview  
-This project analyzes car performance data to explore how different factors such as horsepower, torque, acceleration, fuel type, and engine type impact overall vehicle performance. The project demonstrates beginner-friendly data analysis skills using Excel for data cleaning and Power BI for interactive data visualization.
+This project analyzes car performance data to explore how different factors such as horsepower, torque, acceleration, fuel type, and engine type impact overall vehicle performance. The project demonstrates beginner-friendly data analysis skills using Power BI for data cleaning and interactive data visualization.
 
 👉 **Project Files (Click to View/Download):**  
 [🔗 [Click here to access the Power BI files and datasets](https://drive.google.com/drive/folders/1wtuEeQUx1ViyoLLIV3540e6cPGJ7dp_R?usp=drive_link))]
